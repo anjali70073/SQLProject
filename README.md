@@ -1,6 +1,26 @@
-# SQLProject
-
 # Hospital Data Analysis using SQL
 
-This project focuses on analyzing a hospital dataset using structured query language (SQL) to extract meaningful insights. It involves working with patient records, hospital details, and departmental data to understand overall performance and trends. Key SQL concepts such as **GROUP BY, aggregate functions (SUM, AVG, COUNT), filtering, and sorting** are used extensively. The project includes analysis of patient count, average stay duration, department-wise load, and medical expenses. It demonstrates strong skills in **data querying, data analysis, and database management**. This project is useful for understanding real-world healthcare data and improving decision-making through SQL.
+## 📌 Overview
+Analyzed a hospital dataset using PostgreSQL to extract insights on patient management, hospital operations, and financial performance.
 
+## 🛠️ Tech Stack
+- Database: PostgreSQL
+- Language: SQL
+- Dataset: Hospital_Data.csv
+
+## 📂 Files
+- Hospital_Data.csv – Raw dataset
+- analysis_queries.sql – SQL queries
+- SQLAProject.pdf – Report
+
+## 🔍 Key Analysis
+- Patient Stay: Longest stay & average stay duration
+- Operations: Top 3 departments by patient volume
+- Financials: Monthly expenses & highest spending hospital
+- Geography: Patient distribution by city
+
+## 🚀 Skills Demonstrated
+- Aggregations (SUM, AVG, COUNT)
+- Joins & Grouping
+- Date Functions (EXTRACT)
+- Data Analysis & Query Optimization
